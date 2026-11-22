@@ -122,4 +122,5 @@ for size in [1000, 100000]:
     merge_contacts(test_data)
     end = time.perf_counter()
 
-    print(size, "contacts:", round(end - start, 4), "seconds)
+    print(size, "contacts:", round(end - start, 4), "seconds")
+
