@@ -37,3 +37,4 @@ complaints = [
 
 for c in complaints:
     print(f"{label(c):8} | {c}")
+
