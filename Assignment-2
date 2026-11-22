@@ -53,3 +53,4 @@ print("Loop iterations:", steps)
 print("Execution time:", round(time2, 6), "seconds")
 
 print("\nResults are same:", result1 == result2)
+
